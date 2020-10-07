@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Jonathan 👋🏻
 
-<!--
-**jschack94/jschack94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Current Projects <br/>
+> ⭐️ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🔥 [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
+
+> ✨ 
+
+
+
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
+
+## Hobbies
+Movie Lover <br/>
+Live Music Fantatic </br>
+Cheese Head
+
+
+## Connect with Me
+- [Portfolio](https://jschack94.github.io/JonathanSchackwebsite/) <br/>
+- [Instagram](https://www.instagram.com/jschack94) <br/>
+- [Linkedin](https://www.linkedin.com/in/jonathan-schack/) <br/>
