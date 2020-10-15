@@ -1,13 +1,13 @@
-# Hi there, I'm Jonathan 👋🏻
+# Hi there, I'm Jonathan Schack 👋🏻
 
-About Me
+About Me WIP
 
 ## Current Projects <br/>
-> ⭐️ 
+> ⭐️ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
 > 🔥 [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
-> ✨ 
+> ✨ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
 
 
@@ -20,7 +20,9 @@ About Me
 ## Hobbies
 Movie Lover <br/>
 Live Music Fantatic </br>
-Cheese Head
+Cheese Head </br>
+World Traveler </br>
+Head of Content for @WilsonGoodBoy
 
 
 ## Connect with Me
