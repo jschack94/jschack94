@@ -1,14 +1,11 @@
 # Hi there, I'm Jonathan Schack 👋🏻
 
-About Me WIP
+Graduate of Flatiron School's Software Engineering Immersive Bootcamp. I am passionate about writing clean, DRY code, and improving my skills every day.
 
 ## Current Projects <br/>
 > ⭐️ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
-> 🔥 [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
-
-> ✨ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
-
+> 🔥 [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
 
 ## My Values
