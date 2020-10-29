@@ -7,6 +7,8 @@ Graduate of Flatiron School's Software Engineering Immersive Bootcamp. I am pass
 
 > 🔥 [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
+> ⭐️ [Spotify API]
+
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
