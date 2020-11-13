@@ -7,7 +7,7 @@ I am a full stack web developer and life-long learner with a formal education in
 
 > 🔥 [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
-> ⭐️ [Harry Potter Trivia Game]
+> <img src="harrypotter.png" alt="Italian Trulli"> [Harry Potter Trivia Game]
 
 
 ## My Values
