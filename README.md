@@ -5,9 +5,9 @@ I am a full stack web developer and life-long learner with a formal education in
 ## Current Projects <br/>
 > ⭐️ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
-> 🔥 [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
+> ☕ [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
-> <img src="harrypotter.jpg" alt="Italian Trulli"> [Harry Potter Trivia Game]
+> 🤓 [Harry Potter Trivia Game]
 
 
 ## My Values
