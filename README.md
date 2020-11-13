@@ -1,13 +1,13 @@
 # Hi there, I'm Jonathan Schack 👋🏻
 
-Graduate of Flatiron School's Software Engineering Immersive Bootcamp. I am passionate about writing clean, DRY code, and improving my skills every day.
+I am a full stack web developer and life-long learner with a formal education in marketing and sales. Initially a hobby, my interest in web development quickly transformed into a full-blown passion, leading me to a multitude of technologies including Ruby on Rails, JavaScript, and React. Because of Flatiron School, I have been propelled into a fresh career path that I am extremely excited to learn and grow in. My latest web app allows mentees to collaborate with professionals in their field; I am fascinated by creating applications that connect likeminded people from all over the world.
 
 ## Current Projects <br/>
 > ⭐️ [JonathanCodes] I'm rebuilding my portfolio to modernize and simplify the code structure with React and Gatsby.
 
 > 🔥 [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
-> ⭐️ [Spotify API]
+> ⭐️ [Harry Potter Trivia Game]
 
 
 ## My Values
