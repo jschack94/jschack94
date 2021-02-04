@@ -11,6 +11,8 @@ I am a full stack web developer and life-long learner with a formal education in
 
 > ☕ [CoffeeChemistry] I am working on an app that is all about creating the perfect cup of coffee.
 
+>💡 [In The Wav] I am working with Spotify's API. Work in Progress!
+
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
